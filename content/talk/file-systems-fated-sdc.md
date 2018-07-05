@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2017-09-24
+time_start = 2017-09-24T15:15:00-07:00
 #time_end = 2018-07-04T21:52:31-07:00
 
 # Abstract and optional shortened version.
