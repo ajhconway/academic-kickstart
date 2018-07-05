@@ -203,7 +203,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 1
+    publication_format = 0
 
   # Social/Academic Networking
   #
@@ -267,7 +267,7 @@ enableGitInfo = false
   url = "#publications"
   weight = 2
 
-[[menu-main]]
+[[menu.main]]
   name = "Talks"
   url = "#talks"
   weight = 3
