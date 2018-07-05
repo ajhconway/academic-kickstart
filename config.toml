@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Alex Conway"
-  role = "CS PhD candidate, researcher"
+  role = "PhD Candidate, Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -241,7 +241,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
-    link = "//orcid.org/signin"
+    link = "//orcid.org/0000-0003-4890-7413"
+
+  [[params.social]]
+    icon = "arxiv"
+	icon_pack = "ai"
+	link = "//arxiv.org/a/conway_a_1.html"
 
 
 # Navigation Links
