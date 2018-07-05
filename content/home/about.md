@@ -39,8 +39,8 @@ he is advised by Martin Farach-Colton. His research interests are in the
 theory, application and implementation of external memory data structures and
 algorithms. He has worked externsively with write-optimized data structures
 such as $B^\varepsilon$-trees, COLAs, LSMs and BOA/BOT hash tables, from both
-theortical and systems perspectives.
+theoretical and systems perspectives.
 
 He is a member of the BetrFS team, which built and maintains the BetrFS
-prototype file system. BetrFS is designed around the principle of
+prototype file system. BetrFS is designed around the principles of
 write-optimization, and is built using variants of $B^\varepsilon$-trees.
