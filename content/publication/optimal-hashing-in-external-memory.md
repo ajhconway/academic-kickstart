@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://drops.dagstuhl.de/opus/volltexte/2018/9043/pdf/LIPIcs-ICALP-2018-39.pdf"
 url_preprint = "https://arxiv.org/pdf/1805.09423.pdf"
 url_code = ""
 url_dataset = ""
