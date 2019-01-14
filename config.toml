@@ -10,7 +10,7 @@ title = "Alex Conway"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Alex Conway"
-  role = "Computer Science PhD Candidate"
+  role = "PhD Candidate in Computer Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -109,7 +109,7 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -203,7 +203,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 0
+    publication_format = 4
 
   # Social/Academic Networking
   #
@@ -229,25 +229,24 @@ enableGitInfo = false
     link = "mailto:conway@ajhconway.com"
 
   [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "/files/alex_conway_cv.pdf"
+
+  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "//scholar.google.com/citations?user=RAYmM1wAAAAJ"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "//github.com/ajhconway"
-
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "//orcid.org/0000-0003-4890-7413"
 
   [[params.social]]
     icon = "arxiv"
 	icon_pack = "ai"
 	link = "//arxiv.org/a/conway_a_1.html"
 
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "//github.com/ajhconway"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -268,19 +267,14 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "CV"
+  url = "/files/alex_conway_cv.pdf"
   weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
