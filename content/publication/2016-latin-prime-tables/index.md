@@ -1,7 +1,7 @@
 +++
 title = "The I/O Complexity of Computing Prime Tables"
 date = 2016-01-01
-authors = ["Michael A. Bender", "Rezaul Chowdhury", "Alexander Conway", "Martin Farach-Colton", "Pramod Ganapathi", "Rob Johnson", "Samuel McCauley", "Bertrand Simon", "Shikha Singh"]
+authors = ["Michael A. Bender", "Rezaul Chowdhury", "**Alex Conway**", "Martin Farach-Colton", "Pramod Ganapathi", "Rob Johnson", "Samuel McCauley", "Bertrand Simon", "Shikha Singh"]
 publication_types = ["1"]
 abstract = ""
 selected = false

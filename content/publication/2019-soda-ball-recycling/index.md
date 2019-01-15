@@ -1,7 +1,7 @@
 +++
 title = "Optimal Ball Recycling"
 date = 2019-01-01
-authors = ["Michael A. Bender", "Jake Christensen", "Alex Conway", "Martin Farach-Colton", "Rob Johnson", "Meng-Tsung Tsai"]
+authors = ["Michael A. Bender", "Jake Christensen", "**Alex Conway**", "Martin Farach-Colton", "Rob Johnson", "Meng-Tsung Tsai"]
 publication_types = ["1"]
 abstract = ""
 selected = true

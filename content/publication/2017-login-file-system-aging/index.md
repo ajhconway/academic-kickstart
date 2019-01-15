@@ -1,7 +1,7 @@
 +++
 title = "How to Fragment Your File System"
 date = 2017-01-01
-authors = ["Alex Conway", "Ainesh Bakshi", "Yizheng Jiao", "Yang Zhan", "Michael A. Bender", "William Jannen", "Rob Johnson", "Bradley C. Kuszmaul", "Donald E. Porter", "Jun Yuan", "Martin Farach-Colton"]
+authors = ["**Alex Conway**", "Ainesh Bakshi", "Yizheng Jiao", "Yang Zhan", "Michael A. Bender", "William Jannen", "Rob Johnson", "Bradley C. Kuszmaul", "Donald E. Porter", "Jun Yuan", "Martin Farach-Colton"]
 publication_types = ["2"]
 abstract = ""
 selected = false

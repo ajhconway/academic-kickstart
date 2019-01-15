@@ -1,7 +1,7 @@
 +++
 title = "The Full Path to Full-Path Indexing"
 date = 2018-01-01
-authors = ["Yang Zhan", "Alexander Conway", "Yizheng Jiao", "Eric Knorr", "Michael A. Bender", "Martin Farach-Colton", "William Jannen", "Rob Johnson", "Donald E. Porter", "Jun Yuan"]
+authors = ["Yang Zhan", "**Alex Conway**", "Yizheng Jiao", "Eric Knorr", "Michael A. Bender", "Martin Farach-Colton", "William Jannen", "Rob Johnson", "Donald E. Porter", "Jun Yuan"]
 publication_types = ["1"]
 abstract = ""
 selected = true

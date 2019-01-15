@@ -1,7 +1,7 @@
 +++
 title = "File Systems Fated for Senescence? Nonsense, Says Science!"
 date = 2017-01-01
-authors = ["Alexander Conway", "Ainesh Bakshi", "Yizheng Jiao", "William Jannen", "Yang Zhan", "Jun Yuan", "Michael A. Bender", "Rob Johnson", "Bradley C. Kuszmaul", "Donald E. Porter", "Martin Farach-Colton"]
+authors = ["**Alex Conway**", "Ainesh Bakshi", "Yizheng Jiao", "William Jannen", "Yang Zhan", "Jun Yuan", "Michael A. Bender", "Rob Johnson", "Bradley C. Kuszmaul", "Donald E. Porter", "Martin Farach-Colton"]
 publication_types = ["1"]
 abstract = ""
 selected = true

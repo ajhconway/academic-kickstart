@@ -1,7 +1,7 @@
 +++
 title = "Optimal Hashing in External Memory"
 date = 2018-01-01
-authors = ["Alex Conway", "Martin Farach-Colton", "Philip Shilane"]
+authors = ["**Alex Conway**", "Martin Farach-Colton", "Philip Shilane"]
 publication_types = ["1"]
 abstract = ""
 selected = true
